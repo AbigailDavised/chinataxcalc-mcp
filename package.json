@@ -1,0 +1,11 @@
+{
+  "name": "chinataxcalc-mcp",
+  "version": "1.0.0",
+  "description": "Calculate China expat IIT net salary, BIA tax-free allowances, annual bonus & GBA 15% rebates.",
+  "homepage": "https://chinataxcalc.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbigailDavised/chinataxcalc-mcp.git"
+  },
+  "license": "MIT"
+}

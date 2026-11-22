@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "chinataxcalc": {
+      "type": "http",
+      "url": "https://chinataxcalc.com/api/mcp"
+    }
+  }
+}
